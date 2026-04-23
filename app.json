@@ -18,6 +18,11 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#000000"
       }
+    },
+    "extra": {
+      "eas": {
+    "projectId": "TUZA KHARA ID ITHE"
+      }
     }
   }
 }
