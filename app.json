@@ -8,7 +8,11 @@
     "icon": "https://expo.dev/static/images/placeholder-app-icon.png",
     "android": {
       "package": "com.manasi.editpromax",
-      "versionCode": 1
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "https://expo.dev/static/images/placeholder-app-icon.png",
+        "backgroundColor": "#000000"
+      }
     },
     "extra": {
       "eas": {
