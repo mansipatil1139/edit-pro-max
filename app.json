@@ -5,6 +5,7 @@
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
+    "icon": "https://expo.dev/static/images/placeholder-app-icon.png",
     "android": {
       "package": "com.manasi.editpromax",
       "versionCode": 1
